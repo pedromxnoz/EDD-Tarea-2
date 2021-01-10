@@ -1,0 +1,38 @@
+Ramos:
+
+(1) Teoria Electromagnetica / Manuel Cerna
+(2) Programacion / Matthias Clein
+(3) Analisis Numerico / Eduardo Contrera
+
+~*~* HORARIOS Y EVENTOS *~*~
+
+[HORARIOS] Lunes:
+ [1] Analisis Numerico (9:00 - 11:00)
+ [2] Teoria Electromagnetica (11:00 - 13:00)
+[EVENTOS] Lunes:
+
+----------------------------------------------
+[HORARIOS] Martes:
+ [1] Programacion (11:00 - 13:00)
+[EVENTOS] Martes:
+ [1] (13:30) Almuerzo Familiar
+
+----------------------------------------------
+[HORARIOS] Miercoles:
+ [1] Teoria Electromagnetica (9:015 - 11:00)
+ [2] Programacion (11:010 - 13:00)
+ [3] Analisis Numerico (15:20 - 17:30)
+[EVENTOS] Miercoles:
+
+----------------------------------------------
+[HORARIOS] Jueves:
+ [1] Analisis Numerico (16:30 - 18:30)
+[EVENTOS] Jueves:
+
+----------------------------------------------
+[HORARIOS] Viernes:
+ [1] Teoria Electromagnetica (10:0 - 12:10)
+ [2] Programacion (14:30 - 16:30)
+[EVENTOS] Viernes:
+
+----------------------------------------------

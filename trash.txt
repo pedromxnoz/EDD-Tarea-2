@@ -1,0 +1,69 @@
+12 3
+2
+1
+3
+1
+2
+0
+2
+1
+0
+2
+2
+2
+0
+1
+11
+9
+11
+9
+15
+15
+16
+10
+14
+0
+0
+0
+15
+20
+20
+30
+0
+30
+13
+11
+13
+11
+17
+17
+18
+12
+16
+0
+0
+0
+0
+30
+30
+30
+10
+30
+Teoria Electromagnetica
+Analisis Numerico
+Programacion
+Teoria Electromagnetica
+Analisis Numerico
+Analisis Numerico
+Analisis Numerico
+Teoria Electromagnetica
+Programacion
+www.campus.cl
+www.clases.cl
+www.ufro.cl
+www.campus.cl
+www.clases.cl
+www.clases.cl
+www.clases.cl
+www.campus.cl
+www.ufro.cl
